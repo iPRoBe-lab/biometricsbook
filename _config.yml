@@ -1,0 +1,7 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Introduction to Biometrics, 2nd Edition
+# description: Anil K. Jain, Arun Ross, Karthik Nandakumar, Thomas Swearingen
+github: false
+show_downloads: false
