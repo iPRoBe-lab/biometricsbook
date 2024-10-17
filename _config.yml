@@ -4,6 +4,7 @@ plugins:
 title: Introduction to Biometrics
 description: |
   Second Edition<br>
-  Anil K. Jain, Arun A. Ross, Karthik Nandakumar, Thomas Swearingen
+  Anil K. Jain, Arun A. Ross, Karthik Nandakumar, Thomas Swearingen<br>
+  Springer, 2024, ISBN: 978-3-031-61674-7
 github: false
 show_downloads: false
