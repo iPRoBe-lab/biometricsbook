@@ -1,0 +1,25 @@
+1. Setup ruby using brew:
+
+        brew install ruby
+
+2. Add ruby to PATH for your current terminal. This isn't done permanently because it can interfere with the native ruby installation.
+
+        export PATH="/usr/local/opt/ruby/bin:$PATH"
+
+3. Create Gemfile. The contents of the file should be:
+
+        source "https://rubygems.org"
+
+        gem "github-pages", group: :jekyll_plugins
+
+4. Run installation:
+
+        bundle install
+
+5. Build site:
+
+        bundle exec jekyll build
+
+6. Serve site:
+
+        bundle exec jekyll serve
