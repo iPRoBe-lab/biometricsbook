@@ -18,7 +18,7 @@ Francis Galton, Nature, June 28, 1888.
 *   Slide Deck 1: [PowerPoint](https://www.dropbox.com/scl/fi/xgg4pdx02dch7ze3h7m5y/03-Fingerprint1.pptx?rlkey=914cowl8d947o21zmai44nefa&st=5k1lpubv&dl=0), [PDF](https://www.dropbox.com/scl/fi/zfrtn2olg5h7dxzgd3dze/03-Fingerprint1.pdf?rlkey=cbjul9xtv8mpjcs4s6q6308ho&st=vuh09oj0&dl=0)
 *   Slide Deck 2: [PowerPoint](https://www.dropbox.com/scl/fi/6t5pp43a2vez701ntj78p/03-Fingerprint2.pptx?rlkey=0dbdyjvgf77ud5zxqalus5kcq&st=wvocw9pr&dl=0), [PDF](https://www.dropbox.com/scl/fi/6sza00u1hqyzyl4upbxwi/03-Fingerprint2.pdf?rlkey=z07tpokihm8zldug6nerc72sn&st=9vz73i5l&dl=0)
 *   Slide Deck 3: [PowerPoint](https://www.dropbox.com/scl/fi/dze8phi3t6gg71g0n7vqq/03-Fingerprint3.pptx?rlkey=y77jdy0naymj6brg9oyk5hnng&st=mxodeyb8&dl=0), [PDF](https://www.dropbox.com/scl/fi/bpk4sa42d98xr4hf41ama/03-Fingerprint3.pdf?rlkey=ixk6rn4q8jxwm4ve3dnz9yddx&st=nz2zftrx&dl=0)
-*   [Figures](.)^ (to be posted)
+*   Figures^ (to be posted)
 
 *^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 

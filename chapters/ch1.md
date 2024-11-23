@@ -21,7 +21,7 @@ English translation
 
 *   [PowerPoint](https://www.dropbox.com/scl/fi/d2j8n6rxv1vwa6f97f8qk/01-Introduction.pptx?rlkey=vdt9r9uw1687wsrnc3w62zaln&st=9iakz31m&dl=0)
 *   [PDF](https://www.dropbox.com/scl/fi/27wzndiqd60b5sqln45qs/01-Introduction.pdf?rlkey=g3jzhd4emhn9m2fy141286xb6&st=7fu71jes&dl=0)
-*   [Figures](.)^ (to be posted)
+*   Figures^ (to be posted)
 
 *^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 

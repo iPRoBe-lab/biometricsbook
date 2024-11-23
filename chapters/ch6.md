@@ -15,9 +15,9 @@ George R. Doddington, Proceedings of the IEEE, 1985.
 
 ### Lecture Materials
 
-*   [PowerPoint](.)
-*   [PDF](.)
-*   [Figures](.)^ (to be posted)
+*   PowerPoint (to be posted)
+*   PDF (to be posted)
+*   Figures^ (to be posted)
 
 *^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
