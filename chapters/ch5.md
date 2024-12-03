@@ -18,9 +18,9 @@ John Daugman, in Biometrics: Personal Identification in Networked Society (Jain 
 
 *   [PowerPoint](https://www.dropbox.com/scl/fi/9cu3htn4odusnu2cy6w4o/05-Iris.pptx?rlkey=vger9c9fn791r8u783qtzv3qm&st=xdt2afzw&dl=0)
 *   [PDF](https://www.dropbox.com/scl/fi/kzxi8wo9bj59xgxzn2qxs/05-Iris.pdf?rlkey=r44cwv2nyhuxw17uzipdzo599&st=atvfyb0x&dl=0)
-*   Figures^ (to be posted)
+*   [Figures](https://www.dropbox.com/scl/fi/cbnec2a8fgar9nvs2knw2/05_IRIS_FIGURES.zip?rlkey=1o6g9glp4h9m3wh3cx9x93cko&st=5y60lp3x&dl=0)
 
-*^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
+*Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
 ### Additional Exercises
 

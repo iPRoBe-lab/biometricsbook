@@ -17,9 +17,9 @@ James Scott
 
 *   PowerPoint (to be posted)
 *   PDF (to be posted)
-*   Figures^ (to be posted)
+*   [Figures](https://www.dropbox.com/scl/fi/cdjgfmlxwup346cp5qyou/09_SECURITY_FIGURES.zip?rlkey=yuvan1c0vlekhpi5qdfgq9f0x&st=ai481tzh&dl=0)
 
-*^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
+*Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
 ### Additional Exercises
 

@@ -17,9 +17,9 @@ Minsky, 1991.
 
 *   PowerPoint (to be posted)
 *   PDF (to be posted)
-*   Figures^ (to be posted)
+*   [Figures](https://www.dropbox.com/scl/fi/wjlhzepziesmfz7q0abop/08_MULTIBIO_FIGURES.zip?rlkey=awhyjp6z4uiyykgllyjj9kvmx&st=p32fzq1v&dl=0)
 
-*^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
+*Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
 ### Additional Exercises
 

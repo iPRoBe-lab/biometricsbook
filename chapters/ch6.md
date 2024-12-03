@@ -17,9 +17,9 @@ George R. Doddington, Proceedings of the IEEE, 1985.
 
 *   PowerPoint (to be posted)
 *   PDF (to be posted)
-*   Figures^ (to be posted)
+*   [Figures](https://www.dropbox.com/scl/fi/l732lygw5mmch9jognj1d/06_SPEAKER_FIGURES.zip?rlkey=30alpb60q5vit053qwelrjltg&st=st28miq6&dl=0)
 
-*^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
+*Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
 ### Additional Exercises
 

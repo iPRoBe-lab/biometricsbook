@@ -17,9 +17,9 @@ Goldstein, Harmon and Lesk, Proceedings of the IEEE, May 1971.
 
 *   Slide Deck 1: [PowerPoint](https://www.dropbox.com/scl/fi/sfatn7k4ydv2um7miy82i/04-Face1.pptx?rlkey=r4qmrci1lt00kmm6lulsxfrfr&st=meyreqe9&dl=0), [PDF](https://www.dropbox.com/scl/fi/qd6cdik0y7tulwyaqhnhj/04-Face1.pdf?rlkey=y0syvax3b3z63xjgzxisdy1zl&st=itejcqdo&dl=0)
 *   Slide Deck 2: [PowerPoint](https://www.dropbox.com/scl/fi/juafrhr77nfnur6ba9lc2/04-Face2.pptx?rlkey=vpfueucyqn360y685z8d0ehae&st=0zvdhdvb&dl=0), [PDF](https://www.dropbox.com/scl/fi/p93pji1uc5lldq4o4va0z/04-Face2.pdf?rlkey=zf1lkogu2jjowun1iumml2mai&st=ji7tpbps&dl=0)
-*   Figures^ (to be posted)
+*   [Figures](https://www.dropbox.com/scl/fi/wrl5d2arcewjls7u7je54/04_FACE_FIGURES.zip?rlkey=5nfrrfmyim30qy1iqraz8unhx&st=fqajiy2j&dl=0)
 
-*^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
+*Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
 ### Additional Exercises
 

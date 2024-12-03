@@ -10,9 +10,9 @@ description: Introduction to Biometrics
 
 *   PowerPoint (to be posted)
 *   PDF (to be posted)
-*   Figures^ (to be posted)
+*   [Figures](https://www.dropbox.com/scl/fi/jwika7wjb1l8b5pfe8wec/02_DEEPLEARN_FIGURES.zip?rlkey=1om3d9u50z78yg1w3mgsuti5t&st=pf6k7gg9&dl=0)
 
-*^Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
+*Please note that only the figures for which we have permission are included from the textbook. Not all figures are available.*
 
 ### Additional Exercises
 
